@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am Vaibhav Kushwaha and I am a Flutter developer. I love to experiment with various Flutter packages and tweak them to get interesting results (they scare me sometimes, not kidding).
+
+🔭 I am currently working on developing a Notes app for Android using Flutter as the framework and Hive as the database. The app will store all the details on the device itself and it won't sync anything (yes, it's your secret, on your device only) unless you specifically sync or backup your data somewhere. You can find the repository [here](https://github.com/fourpointfour/notes_app).
+
+#### Reach out to me
+You can reach out to me via ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 <!--
 **fourpointfour/fourpointfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
