@@ -50,7 +50,7 @@
 
   <summary>📃 Resume</summary>
   
-  ## Education
+  <h2>Education</h2>
   - 📆 2017 - 2021\
   📍 **Indian Institute of Information Technology Kota** - MNIT Campus, Jaipur
   - 📆 2005 - 2017\
