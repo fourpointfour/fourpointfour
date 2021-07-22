@@ -6,8 +6,8 @@
 </p>
 
 <p align='center'>
-  <img src="https://github.com/fourpointfour/github-stats/blob/master/generated/overview.svg">
-  <img src="https://github.com/fourpointfour/github-stats/blob/master/generated/languages.svg">
+  <img src="https://github.com/vaibhav-yb/github-stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/vaibhav-yb/github-stats/blob/master/generated/languages.svg">
 </p>
 
 <h2 align='center'>
@@ -35,11 +35,8 @@
 and make it look beautiful LOL-->
 
 <h2>📰 Articles Published</h2>
-<ul>
-  <li><a href="https://medium.com/@_vaibhavk_/working-with-json-files-in-flutter-45077f9ce7cb">✒️ Working with JSON files in Flutter</a></li>
-  <li><a href="https://fourpointfour.hashnode.dev/why-choose-cross-platform-development">✒️ Why choose cross-platform development?</a></li>
-</ul>
-
+<p><a href="https://medium.com/@_vaibhavk_/working-with-json-files-in-flutter-45077f9ce7cb">✒️ Working with JSON files in Flutter</a></p>
+<p><a href="https://fourpointfour.hashnode.dev/why-choose-cross-platform-development">✒️ Why choose cross-platform development?</a></p>
 
 <h2>🤙 More about me</h2>
 <ul>
@@ -67,5 +64,5 @@ and make it look beautiful LOL-->
 </p>
 
 <h3 align='center'>
-  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  <img src="http://ForTheBadge.com/images/badges/built-with-science.svg">
 </h3>
