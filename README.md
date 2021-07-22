@@ -61,6 +61,15 @@ and make it look beautiful LOL-->
   <a href="https://hashnode.com/@fourpointfour">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>&nbsp;&nbsp;
+  
+  <a href="https://bitbucket.org/vaibhav-yb/">
+    <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://open.spotify.com/user/31sjdjxxfp6qen2r5xjyldww4cji?si=400f0c9aafe34f31">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>&nbsp;&nbsp;
+  
 </p>
 
 <h3 align='center'>
