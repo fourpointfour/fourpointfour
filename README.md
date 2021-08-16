@@ -41,11 +41,14 @@ and make it look beautiful LOL-->
 
 <h2>🤙 More about me</h2>
 <ul>
-<h3>Education</h3>
-  - 📆 2017 - 2021 <br>
-  📍 <em>Indian Institute of Information Technology Kota</em> - MNIT Campus, Jaipur <br>
-  - 📆 2005 - 2017 <br>
-  📍 <em>Kendriya Vidyalaya No. 2</em> - Armapur Estate, Kanpur
+  <h3>Work Experience</h3>
+    - 📆 2017 - Present <br>
+     &nbsp; 📍 <em>Software Development Engineer in Test</em> - <a href="https://www.yugabyte.com/">Yugabyte</a> <br>
+  <h3>Education</h3>
+    - 📆 2017 - 2021 <br>
+     &nbsp; 📍 <em>Indian Institute of Information Technology Kota</em> - MNIT Campus, Jaipur <br>
+    - 📆 2005 - 2017 <br>
+     &nbsp; 📍 <em>Kendriya Vidyalaya No. 2</em> - Armapur Estate, Kanpur
 </ul>
 
 
