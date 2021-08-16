@@ -6,8 +6,8 @@
 </p>
 
 <p align='center'>
-  <img src="https://github.com/vaibhav-yb/github-stats/blob/master/generated/overview.svg">
-  <img src="https://github.com/vaibhav-yb/github-stats/blob/master/generated/languages.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-yb&show_icons=true&theme=chartreuse-dark&count_private=true"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yb&layout=compact&theme=chartreuse-dark&langs_count=8">
 </p>
 
 <h2 align='center'>
