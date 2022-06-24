@@ -35,9 +35,12 @@
 <!--Add something related to what you are currently working on
 and make it look beautiful LOL-->
 
-<h2>📰 Articles Published</h2>
+<h2>📰 Blogs</h2>
 <p><a href="https://medium.com/@_vaibhavk_/working-with-json-files-in-flutter-45077f9ce7cb">✒️ Working with JSON files in Flutter</a></p>
 <p><a href="https://fourpointfour.hashnode.dev/why-choose-cross-platform-development">✒️ Why choose cross-platform development?</a></p>
+<p><a href="https://blog.yugabyte.com/streaming-changes-yugabytedb-cdc-downstream-databases/">✒️ Streaming Changes From YugabyteDB to Downstream Databases</a></p>
+<p><a href="https://blog.yugabyte.com/yugabytedb-cdc-using-jdbc-sink-connector-kafka/">✒️ YugabyteDB CDC: Using JDBC Sink Connector with Kafka</a></p>
+<p><a href="https://blog.yugabyte.com/change-data-capture-cdc-run-debezium-server-kafka-sink/">✒️ How to Run Debezium Server with Kafka as a Sink</a></p>
 
 <h2>🤙 More about me</h2>
 <ul>
