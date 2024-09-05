@@ -2,7 +2,7 @@
 
 <p align='center'>
   A developer who loves to experiment with various packages tweak them (tweaking is scary, not kidding). <br>
-  I have worked in C++ and Java and love creating packages to assist in quick testing of features.
+  I have worked in C++ and Java and love creating custom packages for playing around to know what's possible.
 </p>
 
 <p align='center'>
