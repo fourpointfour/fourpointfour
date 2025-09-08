@@ -45,8 +45,10 @@ and make it look beautiful LOL-->
 <h2>🤙 More about me</h2>
 <ul>
   <h3>Work Experience</h3>
-    - 📆 2021 - Present <br>
-     &nbsp; 📍 <em>Software Engineer</em> - <a href="https://www.yugabyte.com/">Yugabyte</a> <br>
+    - 📆 March 2025 - September 2025 <br>
+     &nbsp; 📍 <em>Software Engineer - II</em> - <a href="https://www.yugabyte.com/">Yugabyte</a> <br>
+    - 📆 July 2021 - March 2025 <br>
+     &nbsp; 📍 <em>Software Engineer - I</em> - <a href="https://www.yugabyte.com/">Yugabyte</a> <br>
   <h3>Education</h3>
     - 📆 2017 - 2021 <br>
      &nbsp; 📍 <em>Indian Institute of Information Technology Kota</em> - MNIT Campus, Jaipur <br>
