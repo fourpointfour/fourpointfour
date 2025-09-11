@@ -6,8 +6,8 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-yb&show_icons=true&theme=chartreuse-dark&count_private=true"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yb&layout=compact&theme=chartreuse-dark&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=fourpointfour&show_icons=true&theme=chartreuse-dark&count_private=true"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fourpointfour&layout=compact&theme=chartreuse-dark&langs_count=8">
 </p>
 
 <!-- Icons taken from: https://dev.to/envoy_/150-badges-for-github-pnk -->
